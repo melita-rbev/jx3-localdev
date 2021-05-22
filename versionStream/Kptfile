@@ -6,6 +6,6 @@ upstream:
   type: git
   git:
     commit: a8a864755df12d7aaf241e29c1e2f173cb9992c7
-    repo: https://github.com/jenkins-x/jxr-versions
-    directory: /
-    ref: master
+    repo: https://github.com/jenkins-x/jx3-lts-versions
+    directory: versionStream
+    ref: main
